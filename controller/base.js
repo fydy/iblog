@@ -8,7 +8,7 @@ const querystring = require('querystring');
 const config = {
   // username & repo name
   owner: 'fydy',
-  repo: 'issue-blog',
+  repo: 'elaw',
 
   // OAuth applications clientId & clientSecret
   client_id: '4b1f5517210d01e86f0d',
