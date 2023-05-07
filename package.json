@@ -24,10 +24,10 @@
   "homepage": "https://github.com/xiongwilee/iblog#readme",
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.11.1",
+    "browser-sync": "^2.29.1",
     "event-stream": "^3.3.2",
     "glob": "^7.0.3",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-clean-css": "^3.9.4",
     "gulp-cli": "^1.2.1",
